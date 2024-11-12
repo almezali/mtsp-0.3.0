@@ -1,3 +1,14 @@
+
+
+███╗   ███╗████████╗███████╗██████╗"
+████╗ ████║╚══██╔══╝██╔════╝██╔══██╗"
+██╔████╔██║   ██║   ███████╗██████╔╝"
+██║╚██╔╝██║   ██║   ╚════██║██╔═══╝"
+██║ ╚═╝ ██║   ██║   ███████║██║"
+╚═╝     ╚═╝   ╚═╝   ╚══════╝╚═╝"
+Music Terminal Shell Player
+
+
 # MTSP - Music Terminal Shell Player
 
 **MTSP** (Music Terminal Shell Player) is a command-line music player designed for Linux, providing a simple, efficient interface to play music directly from the terminal. It supports local playlists and SoundCloud streaming, offering playback features like shuffle, repeat, and volume control.
@@ -57,4 +68,3 @@ h: Show controls
 q: Quit the player
 Adding SoundCloud Tracks
 To add a track from SoundCloud, use the u key and provide a SoundCloud URL. MTSP will fetch and add the track to your playlist
-
