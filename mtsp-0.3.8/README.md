@@ -19,7 +19,7 @@
 
 ## Screenshots
 
-![MTSP Main Interface](https://github.com/almezali/mtsp-0.3.0/tree/main/mtsp-0.3.8/raw/main/0-Screenshot.png)
+![MTSP Main Interface](https://github.com/almezali/mtsp-0.3.0/blob/main/mtsp-0.3.8/0-Screenshot.png)
 
 ## ✨ Key Features
 
